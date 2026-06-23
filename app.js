@@ -1,6 +1,7 @@
-var school = "imsu"
-let name = "Enyinna"
+const name = "Enyinna"
+let school = "Imo state university"
+var course = "industrial MCB"
 
-
-console.log(school)
 console.log(name)
+console.log(school)
+console.log(course)
