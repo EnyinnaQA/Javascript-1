@@ -1,7 +1,5 @@
-const name = "Enyinna"
-let school = "Imo state university"
-var course = "industrial MCB"
+const name = "ENYINNA"
+let course = "quality assurance"
 
 console.log(name)
-console.log(school)
 console.log(course)
